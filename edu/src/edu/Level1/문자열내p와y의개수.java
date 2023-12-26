@@ -19,7 +19,9 @@ public class 문자열내p와y의개수 {
         return answer;
     }
 	 public static void main(String[] args) {
-		 
+		 문자열내p와y의개수  a = new 문자열내p와y의개수();
+		 boolean b = a.solution("Hello Java");
+		 System.out.println(b);
 		}
 
 }
